@@ -1,0 +1,30 @@
+.collection {/*maquetea el grid*/
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 400px);
+    grid-auto-rows: 300px;
+    grid-gap: 1rem;
+    justify-content: right;
+    height: 500px;
+    
+    
+}
+.container{
+    height: 100%;
+    align-content: center;
+    }
+
+    body{
+       
+        background-color: rgb(201, 190, 190);
+        }
+    
+#imgp{
+
+    
+        width: 239,5px; height: 144px;
+     
+      
+
+
+}
+       
